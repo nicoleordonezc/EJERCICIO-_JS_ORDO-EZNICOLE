@@ -1,4 +1,4 @@
-**Quiz
+** Quiz
 
 Se creó una función que recibe una expresión y determina si sus delimitadores (paréntesis () ,
 
